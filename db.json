@@ -1,0 +1,164 @@
+{
+  "products": [
+    {
+      "id": "101a",
+      "nome": "Notebook Dell Inspiron",
+      "preco": 4200,
+      "ativo": true,
+      "data_criacao": "2025-02-05",
+      "data_atualizacao": "2025-02-20"
+    },
+    {
+      "id": "b234",
+      "nome": "Console Xbox Series X",
+      "preco": 3900,
+      "ativo": true,
+      "data_criacao": "2025-03-01",
+      "data_atualizacao": "2025-03-01"
+    },
+    {
+      "id": "c9f0",
+      "nome": "Headset HyperX Cloud II",
+      "preco": 850.75,
+      "ativo": true,
+      "data_criacao": "2025-04-10",
+      "data_atualizacao": "2025-04-12"
+    },
+    {
+      "id": "4e7b",
+      "nome": "Monitor LG 27'' UltraWide",
+      "preco": 1399.9,
+      "ativo": true,
+      "data_criacao": "2025-04-15",
+      "data_atualizacao": "2025-04-15"
+    },
+    {
+      "id": "8ff3",
+      "nome": "Mouse Logitech G Pro",
+      "preco": 699.99,
+      "ativo": false,
+      "data_criacao": "2025-05-02",
+      "data_atualizacao": "2025-05-02"
+    },
+    {
+      "id": "2d11",
+      "nome": "Teclado Mecânico Corsair K70",
+      "preco": 999.5,
+      "ativo": true,
+      "data_criacao": "2025-05-05",
+      "data_atualizacao": "2025-05-06"
+    },
+    {
+      "id": "7c12",
+      "nome": "Smartphone Xiaomi 13",
+      "preco": 2899,
+      "ativo": true,
+      "data_criacao": "2025-06-01",
+      "data_atualizacao": "2025-06-01"
+    },
+    {
+      "id": "f1e8",
+      "nome": "Tablet Samsung Galaxy Tab S9",
+      "preco": 3200,
+      "ativo": true,
+      "data_criacao": "2025-06-10",
+      "data_atualizacao": "2025-06-11"
+    },
+    {
+      "id": "5b72",
+      "nome": "Notebook Asus VivoBook",
+      "preco": 2800,
+      "ativo": true,
+      "data_criacao": "2025-07-01",
+      "data_atualizacao": "2025-07-02"
+    },
+    {
+      "id": "e29a",
+      "nome": "Placa de vídeo RTX 4070",
+      "preco": 4599.99,
+      "ativo": true,
+      "data_criacao": "2025-07-05",
+      "data_atualizacao": "2025-07-05"
+    },
+    {
+      "id": "3f4c",
+      "nome": "Notebook Apple MacBook Air M3",
+      "preco": 7800,
+      "ativo": true,
+      "data_criacao": "2025-07-20",
+      "data_atualizacao": "2025-07-20"
+    },
+    {
+      "id": "91d2",
+      "nome": "Bracelete FitBand Pro",
+      "preco": 890,
+      "ativo": true,
+      "data_criacao": "2025-08-01",
+      "data_atualizacao": "2025-08-01"
+    },
+    {
+      "id": "66c1",
+      "nome": "Cadeira Gamer ThunderX",
+      "preco": 1599,
+      "ativo": true,
+      "data_criacao": "2025-08-10",
+      "data_atualizacao": "2025-08-10"
+    },
+    {
+      "id": "ad44",
+      "nome": "Relógio Apple Watch Series 10",
+      "preco": 3999,
+      "ativo": false,
+      "data_criacao": "2025-08-15",
+      "data_atualizacao": "2025-08-15"
+    },
+    {
+      "id": "0be5",
+      "nome": "Iphone 16 Pro",
+      "preco": 7299,
+      "ativo": true,
+      "data_criacao": "2025-08-20",
+      "data_atualizacao": "2025-08-20"
+    },
+    {
+      "id": "12af",
+      "nome": "Kindle Paperwhite",
+      "preco": 799.9,
+      "ativo": true,
+      "data_criacao": "2025-09-01",
+      "data_atualizacao": "2025-09-01"
+    },
+    {
+      "id": "aa71",
+      "nome": "Playstation 5 Slim",
+      "preco": 3899.99,
+      "ativo": true,
+      "data_criacao": "2025-09-05",
+      "data_atualizacao": "2025-09-05"
+    },
+    {
+      "id": "f332",
+      "nome": "Impressora HP DeskJet",
+      "preco": 699.5,
+      "ativo": true,
+      "data_criacao": "2025-09-06",
+      "data_atualizacao": "2025-09-06"
+    },
+    {
+      "id": "dcb8",
+      "nome": "SSD Samsung 2TB",
+      "preco": 1250.75,
+      "ativo": true,
+      "data_criacao": "2025-09-10",
+      "data_atualizacao": "2025-09-10"
+    },
+    {
+      "id": "7ed0",
+      "nome": "Notebook Lenovo Yoga",
+      "preco": 6150,
+      "ativo": false,
+      "data_criacao": "2025-09-12",
+      "data_atualizacao": "2025-09-12"
+    }
+  ]
+}
